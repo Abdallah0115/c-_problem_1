@@ -1,0 +1,7 @@
+F:\problem solving\cpro\cpro\obj\Debug\cpro.csproj.AssemblyReference.cache
+F:\problem solving\cpro\cpro\obj\Debug\cpro.csproj.CoreCompileInputs.cache
+F:\problem solving\cpro\cpro\bin\Debug\cpro.exe.config
+F:\problem solving\cpro\cpro\bin\Debug\cpro.exe
+F:\problem solving\cpro\cpro\bin\Debug\cpro.pdb
+F:\problem solving\cpro\cpro\obj\Debug\cpro.exe
+F:\problem solving\cpro\cpro\obj\Debug\cpro.pdb
